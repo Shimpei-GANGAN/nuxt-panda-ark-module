@@ -29,6 +29,7 @@
     "test:watch": "vitest watch"
   },
   "dependencies": {
+    "@ark-ui/vue": "^0.8.0",
     "@nuxt/kit": "^3.7.4",
     "@wattanx/nuxt-pandacss": "^0.2.0"
   },
